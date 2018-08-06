@@ -2,6 +2,12 @@ import firebase from 'firebase';
 import 'firebase/firestore';
 
 const config = {
+   apiKey: "AIzaSyBxWJDYZf1rLQagXK84hHlrEcw2z9DgOkA",
+    authDomain: "fccdevversion.firebaseapp.com",
+    databaseURL: "https://fccdevversion.firebaseio.com",
+    projectId: "fccdevversion",
+    storageBucket: "fccdevversion.appspot.com",
+    messagingSenderId: "119920133345"
   // apiKey: ,
   // authDomain: ,
   // databaseURL: ,
